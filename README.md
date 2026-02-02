@@ -1,7 +1,5 @@
-# FINAL PROJECT IN CMSC 100
+# A final project requirement in CMSC 100 Web Programming: Design and implementation of web applications
 
-**Group Name:** Andrew and Friends <br/>
-**Section:** U-4L <br/>
 **Proponents:**<br/>
 Andrew Pabale (2023-66252) <br/>
 Simplicity Fajardo (2023-06889) <br/>
