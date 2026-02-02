@@ -1,10 +1,11 @@
 # A final project requirement in CMSC 100 Web Programming: Design and implementation of web applications
 
 **Proponents:**<br/>
-Andrew Pabale (2023-66252) <br/>
-Simplicity Fajardo (2023-06889) <br/>
-Heart Sobremisana (2021-03700) <br/>
-Christel Mirano (2023-66679) <br/>
+Andrew Pabale - Frontend Developer <br/>
+Simplicity Fajardo - Backend Developer <br/>
+Heart Sobremisana - Frontend Developer <br/>
+Christel Mirano - Database and Backend Developer <br/>
+
 
 ## Website Name and Description
 **Farm to Table** </br></br>
